@@ -1,0 +1,6 @@
+E:\000_工作\Leetcode\Third Maximum Number\Third Maximum Number\bin\Debug\Third Maximum Number.exe.config
+E:\000_工作\Leetcode\Third Maximum Number\Third Maximum Number\bin\Debug\Third Maximum Number.exe
+E:\000_工作\Leetcode\Third Maximum Number\Third Maximum Number\bin\Debug\Third Maximum Number.pdb
+E:\000_工作\Leetcode\Third Maximum Number\Third Maximum Number\obj\Debug\Third Maximum Number.csprojResolveAssemblyReference.cache
+E:\000_工作\Leetcode\Third Maximum Number\Third Maximum Number\obj\Debug\Third Maximum Number.exe
+E:\000_工作\Leetcode\Third Maximum Number\Third Maximum Number\obj\Debug\Third Maximum Number.pdb
